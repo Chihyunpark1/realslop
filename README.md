@@ -14,7 +14,7 @@ The top slop shipper, left off the 214-person contributor allocation list — so
 |---|---|
 | Name | Real Slop |
 | Ticker | RSLOP |
-| Mint |  |
+| Mint | `5hyubHsUEyAYBeD2AeUL34L9JKTvMPpSaxJY6w1hEvex` |
 | Chain | Solana |
 | Total supply | 1,000,000,000 |
 | Decimals | 6 |
@@ -30,9 +30,9 @@ The top slop shipper, left off the 214-person contributor allocation list — so
 | Liquidity pool (PumpSwap) | 70% | 700,000,000 |
 | Team / dev | 0% | 0 |
 
-The airdrop wallet is . Recipients are selected by the creator.
+The airdrop wallet is `BKyNuXaWNdkg3XwZubdcLtXfzVPtT6dBBcnMcHKy1xMM`. Recipients are selected by the creator.
 
-The liquidity pool is on PumpSwap: . LP tokens are held by the creator wallet.
+The liquidity pool is on PumpSwap: `5Fv54bu57GUJ47zqPBwyah3btKwpzFAytVrfnpMEVCu8`. LP tokens are held by the creator wallet.
 
 ## Story
 
